@@ -1,2 +1,0 @@
-# VR MansionLord
-VR MansionLord
