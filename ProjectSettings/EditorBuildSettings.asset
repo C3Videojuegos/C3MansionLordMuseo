@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/VR_Ejemplos/Scenes/EscenaBase.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/VR_Ejemplos/Ruta_escenario_Agarre/Agarres.unity
+    guid: f5c71b76296d1cc448b9f51f6fb5ea71
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 51667c5c92cb457458168fc610274384,
       type: 2}
